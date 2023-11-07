@@ -6,7 +6,7 @@
 
 このリンクから招待できます
 
-[このBOTを招待する](https://aka.ablaze.one/pinbot)
+[このBOTを招待する](https://discord.com/api/oauth2/authorize?client_id=1171376502990962731&permissions=10240&scope=bot)
 
 ### セルフホスト
 
