@@ -29,6 +29,8 @@ client.once("ready", async () =>{
     Log({ type: "info", content: `Started PinBot(${env.VERSION})` });
 });
 
+client.on("error", console.error);
+
 if(env.DEBUG !== undefined) client.on("debug", console.log).on("warn", console.log);
 
 try{
